@@ -96,6 +96,16 @@ android {
         minSdk = 23
         targetSdk = 32
     }
+
+    buildTypes {
+        getByName("release") {
+            isMinifyEnabled = false
+            proguardFiles(
+                getDefaultProguardFile("proguard-android-optimize.txt"),
+                "proguard-rules.pro"
+            )
+        }
+    }
 }
 
 val packForXcode by tasks.creating(Sync::class) {
