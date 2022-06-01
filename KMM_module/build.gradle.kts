@@ -1,20 +1,21 @@
 plugins {
     kotlin("multiplatform")
     kotlin("plugin.serialization")
+//    id("kotlin-android")
     id("com.android.library")
     id("maven-publish")
 }
 
-group = "com.jack"
-version = "1.0.0"
+group = "com.github.ddthanh198"
+version = "1.1.0"
 
 publishing {
     publications {
         create<MavenPublication>("KMM_module") {
             from(components["kotlin"])
-            groupId = "com.jack"
-            artifactId = "KMM_module"
-            version = "1.0.0"
+            groupId = "com.github.ddthanh198"
+            artifactId = "KMM"
+            version = "1.1.0"
         }
     }
 }
