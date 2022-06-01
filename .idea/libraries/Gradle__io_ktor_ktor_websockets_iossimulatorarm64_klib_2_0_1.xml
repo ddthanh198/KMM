@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-websockets-iossimulatorarm64:klib:2.0.1" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-websockets-iossimulatorarm64/2.0.1/75fd8834da948c49c7dcb42d7cf5aa8954c16b24/ktor-websockets.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-websockets-iossimulatorarm64/2.0.1/5a5665f6d7f770d42e9d591bdb6cb07be4a226c9/ktor-websockets-iossimulatorarm64-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

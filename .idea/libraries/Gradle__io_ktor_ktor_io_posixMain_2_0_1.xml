@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-io:posixMain:2.0.1" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/KMM_module.KMM Android Native/commonTest/implementation/io.ktor-ktor-io/io.ktor-ktor-io-posixMain.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-io/2.0.1/6d48c5217992ba06a5e5ed7859213e1c8aa795c3/ktor-io-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

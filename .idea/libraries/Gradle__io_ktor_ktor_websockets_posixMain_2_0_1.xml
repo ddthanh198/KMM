@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-websockets:posixMain:2.0.1" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/KMM_module.KMM Android Native/commonTest/implementation/io.ktor-ktor-websockets/io.ktor-ktor-websockets-posixMain.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-websockets/2.0.1/67205abdce7c7e77384df8a7082e004a431c2395/ktor-websockets-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

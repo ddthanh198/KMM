@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-client-darwin-iosarm64:klib:2.0.1" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-darwin-iosarm64/2.0.1/927fedc27d9a22dbdb4b62059823e0f4f3bd6ccb/ktor-client-darwin.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-darwin-iosarm64/2.0.1/8571934b9cb994743853d7dcd4976b5e4690441/ktor-client-darwin-iosarm64-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

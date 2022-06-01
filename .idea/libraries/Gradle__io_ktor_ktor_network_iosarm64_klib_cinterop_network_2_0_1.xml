@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-network-iosarm64:klib:cinterop-network:2.0.1" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-network-iosarm64/2.0.1/615cce387acb33832393f4884a93d841c81f627f/ktor-network-cinterop-network.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-network-iosarm64/2.0.1/a6c79800dac68cc02cab255da763513b742ab73d/ktor-network-iosarm64-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

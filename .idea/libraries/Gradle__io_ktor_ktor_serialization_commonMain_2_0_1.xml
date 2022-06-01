@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-serialization:commonMain:2.0.1" type="kotlin.common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/KMM_module.KMM Android Native/commonMain/implementation/io.ktor-ktor-serialization/io.ktor-ktor-serialization-commonMain.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-serialization/2.0.1/b0c61f91f5ae0a3e2ff6a6be7d1adac8c4be67e5/ktor-serialization-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

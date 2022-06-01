@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KMM_Android_Native.iml" filepath="$PROJECT_DIR$/.idea/modules/KMM_Android_Native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.iml" filepath="$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.androidAndroidTestRelease.iml" filepath="$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.androidAndroidTestRelease.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.androidTestFixtures.iml" filepath="$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.androidTestFixtures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.androidTestFixturesDebug.iml" filepath="$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.androidTestFixturesDebug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.androidTestFixturesRelease.iml" filepath="$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.androidTestFixturesRelease.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.iosArm64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.iosArm64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.iosArm64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.iosArm64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.iosMain.iml" filepath="$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.iosMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.iosSimulatorArm64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.iosSimulatorArm64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.iosSimulatorArm64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.iosSimulatorArm64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.iosTest.iml" filepath="$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.iosTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.iosX64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.iosX64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.iosX64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.iosX64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.main.iml" filepath="$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/KMM_module/KMM_Android_Native.KMM_module.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KMM_Android_Native.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KMM_Android_Native.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KMM_Android_Native.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KMM_Android_Native.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KMM_Android_Native.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KMM_Android_Native.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KMM_Android_Native.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KMM_Android_Native.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

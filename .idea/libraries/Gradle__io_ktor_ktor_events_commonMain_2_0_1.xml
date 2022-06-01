@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-events:commonMain:2.0.1" type="kotlin.common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/KMM_module.KMM Android Native/commonMain/implementation/io.ktor-ktor-events/io.ktor-ktor-events-commonMain.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-events/2.0.1/c733102cec0a6a3d64a06ebaa514eca431284ecd/ktor-events-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

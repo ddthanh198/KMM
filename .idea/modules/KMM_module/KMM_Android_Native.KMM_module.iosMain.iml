@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":KMM_module:iosMain" external.linked.project.path="$MODULE_DIR$/../../../KMM_module" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="com.jack" external.system.module.type="sourceSet" external.system.module.version="1.0.4" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="Common (experimental) " allPlatforms="Native []/Native [ios_arm64]/Native [ios_simulator_arm64]/Native [ios_x64]" useProjectSettings="false" isTestModule="false" externalProjectId=":KMM_module" isHmppProject="true" pureKotlinSourceFolders="D:\Project\KMMAndroidNative\KMM_module\src\androidDebug\kotlin;D:\Project\KMMAndroidNative\KMM_module\src\debug\kotlin;D:\Project\KMMAndroidNative\KMM_module\src\debug\java;D:\Project\KMMAndroidNative\KMM_module\src\androidDebugAndroidTest\kotlin;D:\Project\KMMAndroidNative\KMM_module\src\androidDebugUnitTest\kotlin;D:\Project\KMMAndroidNative\KMM_module\src\androidRelease\kotlin;D:\Project\KMMAndroidNative\KMM_module\src\release\kotlin;D:\Project\KMMAndroidNative\KMM_module\src\release\java;D:\Project\KMMAndroidNative\KMM_module\src\androidReleaseUnitTest\kotlin;D:\Project\KMMAndroidNative\KMM_module\src\iosArm64Main\kotlin;D:\Project\KMMAndroidNative\KMM_module\src\iosArm64Main\kotlin;D:\Project\KMMAndroidNative\KMM_module\src\iosSimulatorArm64Main\kotlin;D:\Project\KMMAndroidNative\KMM_module\src\iosSimulatorArm64Main\kotlin;D:\Project\KMMAndroidNative\KMM_module\src\iosX64Main\kotlin;D:\Project\KMMAndroidNative\KMM_module\src\iosX64Main\kotlin">
+        <dependsOnModuleNames>:KMM_module:commonMain</dependsOnModuleNames>
+        <newMppModelJpsModuleKind>SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
+        <compilerSettings />
+        <compilerArguments>
+          <option name="languageVersion" value="1.6" />
+          <option name="apiVersion" value="1.6" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array>
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/1.6.10/2c8ba59185f5857a29833856d5e03e03755731a7/kotlin-gradle-plugin-api-1.6.10.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/1.6.10/dbe683647dcb04cda92fe4423acb741a2f144a69/kotlin-scripting-jvm-1.6.10.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-common/1.6.10/b3b71fd93878f2b4f19d099ac6430c67549a1c77/kotlin-scripting-common-1.6.10.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.10/b8af3fe6f1ca88526914929add63cf5e7c5049af/kotlin-stdlib-1.6.10.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-native-utils/1.6.10/dd39b79ad4d789c066cc5a62d8dde7a21f1d3ef8/kotlin-native-utils-1.6.10.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-project-model/1.6.10/1c821660ccd0c89a669fd6cd7cda70afe388c2e5/kotlin-project-model-1.6.10.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.10/c118700e3a33c8a0d9adc920e9dec0831171925/kotlin-stdlib-common-1.6.10.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-util-io/1.6.10/e8557b2856d4fa4d49f0a5af9b5cbf85a009ca7c/kotlin-util-io-1.6.10.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.6.10/d0a7ff2e2500ef497ed0214ae40ad3c8387a6164/kotlin-script-runtime-1.6.10.jar" />
+              <option value="$KOTLIN_BUNDLED$/lib/kotlinx-serialization-compiler-plugin.jar" />
+            </array>
+          </option>
+          <option name="multiPlatform" value="true" />
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../KMM_module/src/iosMain">
+      <sourceFolder url="file://$MODULE_DIR$/../../../KMM_module/src/iosMain/kotlin" type="kotlin-source" />
+    </content>
+    <orderEntry type="jdk" jdkName="Kotlin SDK" jdkType="KotlinSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.6.10 - stdlib" level="project" />
+    <orderEntry type="module" module-name="KMM_Android_Native.KMM_module.commonMain" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-cio:jvmAndNixMain:2.0.1" level="project" />
+    <orderEntry type="module-library">
+      <library name="Gradle: io.ktor:ktor-client-cio:nixMain:2.0.1">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../.gradle/kotlin/sourceSetMetadata/KMM_module.KMM Android Native/iosMain/implementation/io.ktor-ktor-client-cio/io.ktor-ktor-client-cio-nixMain.klib!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-cio/2.0.1/73f94e7cc3112bd843e1fafdaf507746eb52abbb/ktor-client-cio-2.0.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.21" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-resources:commonMain:2.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-serialization:commonMain:2.0.1" level="project" />
+    <orderEntry type="module-library">
+      <library name="Gradle: io.ktor:ktor-client-serialization:posixMain:2.0.1">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../.gradle/kotlin/sourceSetMetadata/KMM_module.KMM Android Native/iosMain/implementation/io.ktor-ktor-client-serialization/io.ktor-ktor-client-serialization-posixMain.klib!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-serialization/2.0.1/6ac858dc3aa62a01f679431d62ba31f847811075/ktor-client-serialization-2.0.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-content-negotiation:commonMain:2.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-core:commonMain:2.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-ios:darwinMain:2.0.1" level="project" />
+    <orderEntry type="module-library">
+      <library name="Gradle: io.ktor:ktor-client-core:posixMain:2.0.1">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../.gradle/kotlin/sourceSetMetadata/KMM_module.KMM Android Native/iosMain/implementation/io.ktor-ktor-client-core/io.ktor-ktor-client-core-posixMain.klib!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-core/2.0.1/8393d352f6bb5a3772b94e9a90034ccafbd5acbc/ktor-client-core-2.0.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-serialization-kotlinx-json:commonMain:2.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core:commonMain:1.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core:concurrentMain:1.6.1" level="project" />
+    <orderEntry type="module-library">
+      <library name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core:nativeMain:1.6.1">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../.gradle/kotlin/sourceSetMetadata/KMM_module.KMM Android Native/iosMain/implementation/org.jetbrains.kotlinx-kotlinx-coroutines-core/org.jetbrains.kotlinx-kotlinx-coroutines-core-nativeMain.klib!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.6.1/39efbbcd004a284f17c57f2d2fff3afe9524e081/kotlinx-coroutines-core-1.6.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json:commonMain:1.3.3" level="project" />
+    <orderEntry type="module-library">
+      <library name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json:nativeMain:1.3.3">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../.gradle/kotlin/sourceSetMetadata/KMM_module.KMM Android Native/iosMain/implementation/org.jetbrains.kotlinx-kotlinx-serialization-json/org.jetbrains.kotlinx-kotlinx-serialization-json-nativeMain.klib!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-json/1.3.3/466ddd689bcade079a8afa4d3cce073071b3f8cb/kotlinx-serialization-json-1.3.3-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-http-cio:commonMain:2.0.1" level="project" />
+    <orderEntry type="module-library">
+      <library name="Gradle: io.ktor:ktor-http-cio:posixMain:2.0.1">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../.gradle/kotlin/sourceSetMetadata/KMM_module.KMM Android Native/iosMain/implementation/io.ktor-ktor-http-cio/io.ktor-ktor-http-cio-posixMain.klib!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-http-cio/2.0.1/2c30817c7b056d732fbeac32c99b15b5dd1b0b48/ktor-http-cio-2.0.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-websockets:commonMain:2.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-network-tls:jvmAndNixMain:2.0.1" level="project" />
+    <orderEntry type="module-library">
+      <library name="Gradle: io.ktor:ktor-websockets:posixMain:2.0.1">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../.gradle/kotlin/sourceSetMetadata/KMM_module.KMM Android Native/iosMain/implementation/io.ktor-ktor-websockets/io.ktor-ktor-websockets-posixMain.klib!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-websockets/2.0.1/67205abdce7c7e77384df8a7082e004a431c2395/ktor-websockets-2.0.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: io.ktor:ktor-network-tls:nixMain:2.0.1">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../.gradle/kotlin/sourceSetMetadata/KMM_module.KMM Android Native/iosMain/implementation/io.ktor-ktor-network-tls/io.ktor-ktor-network-tls-nixMain.klib!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-network-tls/2.0.1/18d16070ab90d547262b16585d3f659860769050/ktor-network-tls-2.0.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-resources:commonMain:2.0.1" level="project" />
+    <orderEntry type="module-library">
+      <library name="Gradle: org.jetbrains.kotlinx:atomicfu:commonMain:0.17.1">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../.gradle/kotlin/sourceSetMetadata/KMM_module.KMM Android Native/iosMain/implementation/org.jetbrains.kotlinx-atomicfu/org.jetbrains.kotlinx-atomicfu-commonMain.klib!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu/0.17.1/28094e6efcb3a5eaeefac97a5864463c33c099eb/atomicfu-0.17.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.jetbrains.kotlinx:atomicfu:nativeInterop:0.17.1">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../.gradle/kotlin/sourceSetMetadata/KMM_module.KMM Android Native/iosMain/implementation/org.jetbrains.kotlinx-atomicfu/org.jetbrains.kotlinx-atomicfu-nativeInterop.klib!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu/0.17.1/28094e6efcb3a5eaeefac97a5864463c33c099eb/atomicfu-0.17.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: org.jetbrains.kotlinx:atomicfu:nativeMain:0.17.1">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../.gradle/kotlin/sourceSetMetadata/KMM_module.KMM Android Native/iosMain/implementation/org.jetbrains.kotlinx-atomicfu/org.jetbrains.kotlinx-atomicfu-nativeMain.klib!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu/0.17.1/28094e6efcb3a5eaeefac97a5864463c33c099eb/atomicfu-0.17.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core:commonMain:1.3.3" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-json:commonMain:2.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-serialization:commonMain:2.0.1" level="project" />
+    <orderEntry type="module-library">
+      <library name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core:nativeMain:1.3.3">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../.gradle/kotlin/sourceSetMetadata/KMM_module.KMM Android Native/iosMain/implementation/org.jetbrains.kotlinx-kotlinx-serialization-core/org.jetbrains.kotlinx-kotlinx-serialization-core-nativeMain.klib!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-core/1.3.3/20ca752ac1a788334cf9385f137e7da5591bc2e3/kotlinx-serialization-core-1.3.3-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: io.ktor:ktor-client-json:posixMain:2.0.1">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../.gradle/kotlin/sourceSetMetadata/KMM_module.KMM Android Native/iosMain/implementation/io.ktor-ktor-client-json/io.ktor-ktor-client-json-posixMain.klib!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-json/2.0.1/3bf6bb22dd81e3385311690c8375ad8b1e52e496/ktor-client-json-2.0.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-events:commonMain:2.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-websocket-serialization:commonMain:2.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-darwin:darwinMain:2.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-http:commonMain:2.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-serialization-kotlinx:commonMain:2.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-network:jvmAndNixMain:2.0.1" level="project" />
+    <orderEntry type="module-library">
+      <library name="Gradle: io.ktor:ktor-http:posixMain:2.0.1">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../.gradle/kotlin/sourceSetMetadata/KMM_module.KMM Android Native/iosMain/implementation/io.ktor-ktor-http/io.ktor-ktor-http-posixMain.klib!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-http/2.0.1/c48ebf6e7589cb06310f8e5782005a40bb211e2f/ktor-http-2.0.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-utils:commonMain:2.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-io:commonMain:2.0.1" level="project" />
+    <orderEntry type="module-library">
+      <library name="Gradle: io.ktor:ktor-network:darwinMain:2.0.1">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../.gradle/kotlin/sourceSetMetadata/KMM_module.KMM Android Native/iosMain/implementation/io.ktor-ktor-network/io.ktor-ktor-network-darwinMain.klib!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-network/2.0.1/962ec846c95d01f671ca95a0f46c7cd5876c7d98/ktor-network-2.0.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: io.ktor:ktor-network:iosMain:2.0.1">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../.gradle/kotlin/sourceSetMetadata/KMM_module.KMM Android Native/iosMain/implementation/io.ktor-ktor-network/io.ktor-ktor-network-iosMain.klib!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-network/2.0.1/962ec846c95d01f671ca95a0f46c7cd5876c7d98/ktor-network-2.0.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: io.ktor:ktor-network:nixMain:2.0.1">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../.gradle/kotlin/sourceSetMetadata/KMM_module.KMM Android Native/iosMain/implementation/io.ktor-ktor-network/io.ktor-ktor-network-nixMain.klib!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-network/2.0.1/962ec846c95d01f671ca95a0f46c7cd5876c7d98/ktor-network-2.0.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: io.ktor:ktor-utils:darwinMain:2.0.1">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../.gradle/kotlin/sourceSetMetadata/KMM_module.KMM Android Native/iosMain/implementation/io.ktor-ktor-utils/io.ktor-ktor-utils-darwinMain.klib!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-utils/2.0.1/9e59126ca5e90ac9f9bce8d1e38bf5deef826d32/ktor-utils-2.0.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: io.ktor:ktor-utils:nixMain:2.0.1">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../.gradle/kotlin/sourceSetMetadata/KMM_module.KMM Android Native/iosMain/implementation/io.ktor-ktor-utils/io.ktor-ktor-utils-nixMain.klib!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-utils/2.0.1/9e59126ca5e90ac9f9bce8d1e38bf5deef826d32/ktor-utils-2.0.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: io.ktor:ktor-utils:posixMain:2.0.1">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../.gradle/kotlin/sourceSetMetadata/KMM_module.KMM Android Native/iosMain/implementation/io.ktor-ktor-utils/io.ktor-ktor-utils-posixMain.klib!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-utils/2.0.1/9e59126ca5e90ac9f9bce8d1e38bf5deef826d32/ktor-utils-2.0.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: io.ktor:ktor-io:posixMain:2.0.1">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../.gradle/kotlin/sourceSetMetadata/KMM_module.KMM Android Native/iosMain/implementation/io.ktor-ktor-io/io.ktor-ktor-io-posixMain.klib!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-io/2.0.1/6d48c5217992ba06a5e5ed7859213e1c8aa795c3/ktor-io-2.0.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

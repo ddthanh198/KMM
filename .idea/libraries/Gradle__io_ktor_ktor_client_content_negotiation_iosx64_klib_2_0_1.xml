@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-client-content-negotiation-iosx64:klib:2.0.1" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-content-negotiation-iosx64/2.0.1/7f1461357255eae9f0929797d8eaf1be21596383/ktor-client-content-negotiation.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-content-negotiation-iosx64/2.0.1/7b4908035726d1cacc486db9c9f64684f3aa18b/ktor-client-content-negotiation-iosx64-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-client-content-negotiation:commonMain:2.0.1" type="kotlin.common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/KMM_module.KMM Android Native/commonMain/implementation/io.ktor-ktor-client-content-negotiation/io.ktor-ktor-client-content-negotiation-commonMain.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-content-negotiation/2.0.1/4a1afbc9fef2bf8977e94a8e208d851c85348808/ktor-client-content-negotiation-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

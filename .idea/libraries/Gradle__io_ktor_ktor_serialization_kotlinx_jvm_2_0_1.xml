@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-serialization-kotlinx-jvm:2.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-serialization-kotlinx-jvm/2.0.1/9d7709ad5c01055d97319d7a47b6d7499153d39e/ktor-serialization-kotlinx-jvm-2.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-serialization-kotlinx-jvm/2.0.1/f18dcd122f74088db90b64cb44c259571e23d347/ktor-serialization-kotlinx-jvm-2.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-serialization-kotlinx-jvm/2.0.1/f91cebf1a4ba2aa69714c4070ae9c6167bca9975/ktor-serialization-kotlinx-jvm-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

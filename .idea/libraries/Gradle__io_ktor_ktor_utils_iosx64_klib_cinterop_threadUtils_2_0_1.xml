@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-utils-iosx64:klib:cinterop-threadUtils:2.0.1" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-utils-iosx64/2.0.1/61376c41e1f2c9654678a9c3ebea8d7f13abf5e6/ktor-utils-cinterop-threadUtils.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-utils-iosx64/2.0.1/ed46dac47ff51ebc3003144cb5a8bb3afefeb2d3/ktor-utils-iosx64-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

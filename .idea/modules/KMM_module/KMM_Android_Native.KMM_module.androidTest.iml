@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":KMM_module:androidTest" external.linked.project.path="$MODULE_DIR$/../../../KMM_module" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false" isTestModule="true" externalProjectId=":KMM_module" isHmppProject="true" pureKotlinSourceFolders="D:\Project\KMMAndroidNative\KMM_module\src\androidDebug\kotlin;D:\Project\KMMAndroidNative\KMM_module\src\debug\kotlin;D:\Project\KMMAndroidNative\KMM_module\src\debug\java;D:\Project\KMMAndroidNative\KMM_module\src\androidDebugAndroidTest\kotlin;D:\Project\KMMAndroidNative\KMM_module\src\androidDebugUnitTest\kotlin;D:\Project\KMMAndroidNative\KMM_module\src\androidRelease\kotlin;D:\Project\KMMAndroidNative\KMM_module\src\release\kotlin;D:\Project\KMMAndroidNative\KMM_module\src\release\java;D:\Project\KMMAndroidNative\KMM_module\src\androidReleaseUnitTest\kotlin;D:\Project\KMMAndroidNative\KMM_module\src\iosArm64Main\kotlin;D:\Project\KMMAndroidNative\KMM_module\src\iosArm64Main\kotlin;D:\Project\KMMAndroidNative\KMM_module\src\iosSimulatorArm64Main\kotlin;D:\Project\KMMAndroidNative\KMM_module\src\iosSimulatorArm64Main\kotlin;D:\Project\KMMAndroidNative\KMM_module\src\iosX64Main\kotlin;D:\Project\KMMAndroidNative\KMM_module\src\iosX64Main\kotlin">
+        <dependsOnModuleNames>:KMM_module:commonTest</dependsOnModuleNames>
+        <sourceSets>
+          <sourceSet>KMM_Android_Native.KMM_module.commonTest</sourceSet>
+        </sourceSets>
+        <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../KMM_module/build/tmp/kotlin-classes/debugAndroidTest" />
+          <option name="classpath" value="$MODULE_DIR$/../../../KMM_module/build/intermediates/compile_library_classes_jar/debug/classes.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-junit/1.6.10/7723f4362f824bf5fabef0ad213d188d2be8d937/kotlin-test-junit-1.6.10.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test/1.6.10/59bace81228ddb06ac0dc81bd3a554bb19799715/kotlin-test-1.6.10.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-serialization-jvm/2.0.1/cdca49230574e8a25139ef89626362018e4ae994/ktor-client-serialization-jvm-2.0.1.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-android-jvm/2.0.1/9885829f24c5a157f9ce6f51ba976185cd8387a3/ktor-client-android-jvm-2.0.1.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-json-jvm/2.0.1/701ddc24bf4976938d1ba6fab2aa9a9c546341d0/ktor-client-json-jvm-2.0.1.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-cio-jvm/2.0.1/cebfc9e0c18755fec7fb91e22851808c82d0af8e/ktor-client-cio-jvm-2.0.1.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-resources-jvm/2.0.1/17d2c148786a15a9037bf8b5b8892c610bc30bc7/ktor-client-resources-jvm-2.0.1.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-content-negotiation-jvm/2.0.1/28f75655ecf79d0a70843e67074405f86eab2ff2/ktor-client-content-negotiation-jvm-2.0.1.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-core-jvm/2.0.1/29add38dfb766a87af6ad2fcbc4c43b235492ab6/ktor-client-core-jvm-2.0.1.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-serialization-kotlinx-json-jvm/2.0.1/4dabda4f2d931e9f991e9fad06f3c2c159fe2a16/ktor-serialization-kotlinx-json-jvm-2.0.1.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-events-jvm/2.0.1/f07fdd2244a9b45fcebba8e745e1608b68138633/ktor-events-jvm-2.0.1.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-websocket-serialization-jvm/2.0.1/1fa7b50ac6e04579c7b829818477f84eeb75f3f2/ktor-websocket-serialization-jvm-2.0.1.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-http-cio-jvm/2.0.1/98d09eceb4abac7dad561aa214b78b0bb14c6bed/ktor-http-cio-jvm-2.0.1.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-serialization-kotlinx-jvm/2.0.1/9d7709ad5c01055d97319d7a47b6d7499153d39e/ktor-serialization-kotlinx-jvm-2.0.1.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-serialization-jvm/2.0.1/cf8b50789647febd7830ac864342ef64caecc875/ktor-serialization-jvm-2.0.1.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-websockets-jvm/2.0.1/d084191f8b1e6cfecd7c07313948d31ad79f26d4/ktor-websockets-jvm-2.0.1.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-resources-jvm/2.0.1/8d50cba23c99354b65a024e53736c53ae00b7fa6/ktor-resources-jvm-2.0.1.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-http-jvm/2.0.1/52bbb29aedf9f3a2275bf2ad72d000ef4a3227e2/ktor-http-jvm-2.0.1.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-network-tls-jvm/2.0.1/445bad8d3e4b046f247d893668fdda9033554ce8/ktor-network-tls-jvm-2.0.1.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-network-jvm/2.0.1/5b64d76571cac61853dcfbe317e866fb68c24ad0/ktor-network-jvm-2.0.1.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-utils-jvm/2.0.1/89bb564dd34306075d3a2a77fdb53d98b4fc5c2e/ktor-utils-jvm-2.0.1.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-io-jvm/2.0.1/362beadd5b96a0f2fb8b3e7f31f49bfdf9406820/ktor-io-jvm-2.0.1.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-jdk8/1.6.1/365e34d5f89c5cd4b3288f09f783befa21545358/kotlinx-coroutines-jdk8-1.6.1.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-jvm/1.6.1/97fd74ccf54a863d221956ffcd21835e168e2aaa/kotlinx-coroutines-core-jvm-1.6.1.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-android/1.6.1/4e61fcdcc508cbaa37c4a284a50205d7c7767e37/kotlinx-coroutines-android-1.6.1.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.6.21/eeb4d60d75e9ea9c11200d52974e522793b14fba/kotlin-stdlib-jdk8-1.6.21.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.6.21/568c1b78a8e17a4f35b31f0a74e2916095ed74c2/kotlin-stdlib-jdk7-1.6.21.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-json-jvm/1.3.3/6298c404c1159685fb657f15fa5b78630da58c96/kotlinx-serialization-json-jvm-1.3.3.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-core-jvm/1.3.3/3c22103b5d8e3c262db19e85d90405ca78b49efd/kotlinx-serialization-core-jvm-1.3.3.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.21/11ef67f1900634fd951bad28c53ec957fabbe5b8/kotlin-stdlib-1.6.21.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar;C:/Users/thanhdd/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.36/6c62681a2f655b49963a5983b8b0950a6120ae14/slf4j-api-1.7.36.jar;C:/Users/thanhdd/AppData/Local/Android/Sdk/platforms/android-32/android.jar;C:/Users/thanhdd/AppData/Local/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="moduleName" value="KMM_module_debug" />
+          <option name="friendPaths">
+            <array>
+              <option value="$MODULE_DIR$/../../../KMM_module/build/tmp/kotlin-classes/debug" />
+              <option value="$MODULE_DIR$/../../../KMM_module/build/intermediates/javac/debug/classes" />
+              <option value="$MODULE_DIR$/../../../KMM_module/build/intermediates/compile_library_classes_jar/debug/classes.jar" />
+            </array>
+          </option>
+          <option name="languageVersion" value="1.6" />
+          <option name="apiVersion" value="1.6" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array>
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/1.6.10/2c8ba59185f5857a29833856d5e03e03755731a7/kotlin-gradle-plugin-api-1.6.10.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/1.6.10/dbe683647dcb04cda92fe4423acb741a2f144a69/kotlin-scripting-jvm-1.6.10.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-common/1.6.10/b3b71fd93878f2b4f19d099ac6430c67549a1c77/kotlin-scripting-common-1.6.10.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.10/b8af3fe6f1ca88526914929add63cf5e7c5049af/kotlin-stdlib-1.6.10.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-native-utils/1.6.10/dd39b79ad4d789c066cc5a62d8dde7a21f1d3ef8/kotlin-native-utils-1.6.10.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-project-model/1.6.10/1c821660ccd0c89a669fd6cd7cda70afe388c2e5/kotlin-project-model-1.6.10.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.10/c118700e3a33c8a0d9adc920e9dec0831171925/kotlin-stdlib-common-1.6.10.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-util-io/1.6.10/e8557b2856d4fa4d49f0a5af9b5cbf85a009ca7c/kotlin-util-io-1.6.10.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.6.10/d0a7ff2e2500ef497ed0214ae40ad3c8387a6164/kotlin-script-runtime-1.6.10.jar" />
+              <option value="$KOTLIN_BUNDLED$/lib/kotlinx-serialization-compiler-plugin.jar" />
+            </array>
+          </option>
+          <option name="multiPlatform" value="true" />
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/androidMain/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../KMM_module/src/main/res;file://$MODULE_DIR$/../../../KMM_module/src/androidMain/res;file://$MODULE_DIR$/../../../KMM_module/src/debug/res;file://$MODULE_DIR$/../../../KMM_module/src/androidDebug/res;file://$MODULE_DIR$/../../../KMM_module/build/generated/res/rs/debug;file://$MODULE_DIR$/../../../KMM_module/build/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../KMM_module/src/androidTest/res;file://$MODULE_DIR$/../../../KMM_module/src/androidAndroidTest/res;file://$MODULE_DIR$/../../../KMM_module/src/androidTestDebug/res;file://$MODULE_DIR$/../../../KMM_module/src/androidAndroidTestDebug/res;file://$MODULE_DIR$/../../../KMM_module/build/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../KMM_module/build/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../KMM_module/build/generated/aidl_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../KMM_module/build/generated/ap_generated_sources/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../KMM_module/build/generated/renderscript_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../KMM_module/build/generated/res/resValues/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../KMM_module/build/generated/res/rs/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../KMM_module/build/generated/source/buildConfig/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../KMM_module/src/androidAndroidTest" />
+    <content url="file://$MODULE_DIR$/../../../KMM_module/src/androidAndroidTestDebug" />
+    <content url="file://$MODULE_DIR$/../../../KMM_module/src/androidTest" />
+    <content url="file://$MODULE_DIR$/../../../KMM_module/src/androidTestDebug" />
+    <orderEntry type="jdk" jdkName="Android API 32 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="KMM_Android_Native.KMM_module.commonTest" exported="" scope="TEST" />
+    <orderEntry type="module" module-name="KMM_Android_Native.KMM_module.main" scope="TEST" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.21" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.6.21" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.21" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-client-android-jvm:2.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-jdk8:1.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.slf4j:slf4j-api:1.7.36" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-client-core-jvm:2.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-http-jvm:2.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-utils-jvm:2.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-io-jvm:2.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-events-jvm:2.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-websocket-serialization-jvm:2.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-serialization-jvm:2.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-websockets-jvm:2.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-client-json-jvm:2.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-client-serialization-jvm:2.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json-jvm:1.3.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.3.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-client-cio-jvm:2.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-http-cio-jvm:2.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-network-jvm:2.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-network-tls-jvm:2.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-client-resources-jvm:2.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-resources-jvm:2.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-client-content-negotiation-jvm:2.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-serialization-kotlinx-json-jvm:2.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-serialization-kotlinx-jvm:2.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-test:1.6.10" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="KMM_Android_Native.KMM_module.main" />
+</module>

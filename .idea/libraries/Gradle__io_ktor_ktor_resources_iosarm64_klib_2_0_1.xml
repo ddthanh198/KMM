@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-resources-iosarm64:klib:2.0.1" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-resources-iosarm64/2.0.1/18aa651a899ae163ecfc6c1a9d42169a6655a632/ktor-resources.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-resources-iosarm64/2.0.1/cbd2194b3e2bc2dd5d85621b31ab57da4ec91b00/ktor-resources-iosarm64-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
