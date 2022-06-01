@@ -11,7 +11,7 @@ version = "1.0.0"
 publishing {
     publications {
         create<MavenPublication>("KMM_module") {
-            from(components["release"])
+            from(components["kotlin"])
             groupId = "com.jack"
             artifactId = "KMM_module"
             version = "1.0.0"
