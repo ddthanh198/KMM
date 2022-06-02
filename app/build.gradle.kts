@@ -33,7 +33,11 @@ android {
 
 dependencies {
     implementation(project(":KMM_module"))
-//    implementation ("com.github.ddthanh198:KMM:1.1.0")
+//    implementation ("com.github.ddthanh198:KMM:1.1.1")
+
+//    debugImplementation("com.github.ddthanh198:KMM-debug:1.1.1")
+//    releaseImplementation ("com.github.ddthanh198:KMM:1.1.1")
+
     implementation("com.google.android.material:material:1.6.0")
     implementation("androidx.appcompat:appcompat:1.4.1")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")

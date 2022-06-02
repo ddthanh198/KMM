@@ -101,7 +101,7 @@ android {
 
     buildTypes {
         getByName("debug") {
-
+            matchingFallbacks += listOf("release")
         }
 
         getByName("release") {
