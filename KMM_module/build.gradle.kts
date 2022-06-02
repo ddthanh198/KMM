@@ -21,7 +21,10 @@ publishing {
 }
 
 kotlin {
-    android()
+    android() {
+        publishAllLibraryVariants()
+        publishLibraryVariantsGroupedByFlavor = true
+    }
 
 //    listOf(
 //        iosX64(),

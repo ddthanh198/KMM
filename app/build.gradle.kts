@@ -33,7 +33,7 @@ android {
 
 dependencies {
     implementation(project(":KMM_module"))
-//    implementation ("com.github.ddthanh198:KMM:1.1.1")
+//    implementation ("com.github.ddthanh198:KMM:1.1.2")
 
 //    debugImplementation("com.github.ddthanh198:KMM-debug:1.1.1")
 //    releaseImplementation ("com.github.ddthanh198:KMM:1.1.1")
@@ -48,6 +48,6 @@ dependencies {
 
     implementation("com.github.bumptech.glide:glide:4.12.0")
 
-    implementation("com.android.support:multidex:1.0.3")
+//    implementation("com.android.support:multidex:1.0.3")
 
 }
