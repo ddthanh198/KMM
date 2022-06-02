@@ -13,6 +13,10 @@ android {
         versionName = "1.0"
     }
     buildTypes {
+        getByName("debug") {
+
+        }
+
         getByName("release") {
             isMinifyEnabled = false
         }
@@ -29,7 +33,7 @@ android {
 
 dependencies {
     implementation(project(":KMM_module"))
-//    implementation ("com.github.ddthanh198:KMM:1.0.7@aar")
+//    implementation ("com.github.ddthanh198:KMM:1.1.0")
     implementation("com.google.android.material:material:1.6.0")
     implementation("androidx.appcompat:appcompat:1.4.1")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
@@ -39,4 +43,7 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1")
 
     implementation("com.github.bumptech.glide:glide:4.12.0")
+
+    implementation("com.android.support:multidex:1.0.3")
+
 }

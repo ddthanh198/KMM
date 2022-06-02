@@ -6,9 +6,9 @@ buildscript {
         maven { setUrl("https://jitpack.io") }
     }
     dependencies {
-        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:1.6.10")
+        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:1.5.30")
         classpath("com.android.tools.build:gradle:7.2.1")
-        classpath("org.jetbrains.kotlin:kotlin-serialization:1.6.10")
+        classpath("org.jetbrains.kotlin:kotlin-serialization:1.5.30")
     }
 }
 
@@ -16,7 +16,7 @@ allprojects {
     repositories {
         google()
         mavenCentral()
-//        maven { setUrl("https://jitpack.io") }
+        maven { setUrl("https://jitpack.io") }
     }
 }
 
