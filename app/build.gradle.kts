@@ -32,8 +32,8 @@ android {
 }
 
 dependencies {
-    implementation(project(":KMM_module"))
-//    implementation ("com.github.ddthanh198:KMM:1.1.2")
+//    implementation(project(":KMM_module"))
+    implementation ("com.github.ddthanh198:KMM:1.1.3")
 
 //    debugImplementation("com.github.ddthanh198:KMM-debug:1.1.1")
 //    releaseImplementation ("com.github.ddthanh198:KMM:1.1.1")
